@@ -1,0 +1,17 @@
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\2022_5_4_EntityFrameWork.csproj.AssemblyReference.cache
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\2022_5_4_EntityFrameWork.csproj.SuggestedBindingRedirects.cache
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\_2022_5_4_EntityFrameWork.Properties.Resources.resources
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\2022_5_4_EntityFrameWork.csproj.GenerateResource.cache
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\2022_5_4_EntityFrameWork.csproj.CoreCompileInputs.cache
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\bin\Debug\2022_5_4_EntityFrameWork.exe.config
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\bin\Debug\2022_5_4_EntityFrameWork.exe
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\bin\Debug\2022_5_4_EntityFrameWork.pdb
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\bin\Debug\EntityFramework.dll
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\bin\Debug\EntityFramework.xml
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\2022_5_4_EntityFrameWork.csproj.CopyComplete
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\2022_5_4_EntityFrameWork.exe
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\2022_5_4_EntityFrameWork.pdb
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\_2022_5_4_EntityFrameWork.View.Form1.resources
+D:\CodeVS2022\14_04_2022_CSDL\2022_5_4_EntityFrameWork\obj\Debug\_2022_5_4_EntityFrameWork.View.Form2.resources
